@@ -3,7 +3,7 @@ class Flag < Formula
   homepage "https://github.com/nickeb96/flag"
   url "https://github.com/nickeb96/flag/archive/1.0.1.tar.gz"
   #version "1.0.0"
-  sha256 "5da5d8c80252a516a3007f5ec772b9f2dec247259e45887592a936f1c3376d50"
+  sha256 "a01e4cbe98ab472e69f7869c660cc6a75aec34c7151c2f59c5753d63a7eb799a"
 
   def install
     bin.install "flag"
