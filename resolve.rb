@@ -3,7 +3,7 @@ class Resolve < Formula
   homepage "https://github.com/nickeb96/resolve"
   url "https://github.com/nickeb96/resolve/archive/1.0.1.tar.gz"
   #version "1.0.0"
-  sha256 "475b9d711912e4d2e3644aff54c18784053cc6b1dd7935d43f2e536ef6974e86"
+  sha256 "ab8018b82b0104b6eec30b83b49a8d281b3566249669f732742771d452e1bf37"
 
   def install
     bin.install "resolve"
